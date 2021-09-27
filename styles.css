@@ -14,7 +14,8 @@
 
 body {
     font-family: var(--font-secondary);
-    color: #fff
+    color: #fff;
+    background: #fff;
 }
 
 .container {
