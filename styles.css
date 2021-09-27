@@ -100,8 +100,10 @@ body {
     display: flex;
     color: var(--color-ultimate);
     flex-direction: row;
-    margin: 70px  120px;
-    gap: 30px
+    margin: 0  120px;
+    gap: 30px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 
 }
 
